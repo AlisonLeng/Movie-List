@@ -1,0 +1,22 @@
+.container {
+  position: relative;
+}
+
+.switch-icon {
+  position: absolute;
+  right: 20px;
+  color: #004b97;
+}
+
+.fa:hover {
+  transform: scale(1.5);
+  cursor: pointer;
+  color: #ae0000;
+}
+
+.page-link:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+  font-weight: 500;
+  color: #ae0000;
+}
